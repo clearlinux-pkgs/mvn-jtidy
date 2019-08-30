@@ -4,7 +4,7 @@
 #
 Name     : mvn-jtidy
 Version  : r938
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/net/sf/jtidy/jtidy/r938/jtidy-r938.jar
 Source0  : https://repo1.maven.org/maven2/net/sf/jtidy/jtidy/r938/jtidy-r938.jar
 Source1  : https://repo1.maven.org/maven2/net/sf/jtidy/jtidy/r938/jtidy-r938.pom
